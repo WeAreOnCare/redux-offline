@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "redux-persist": "^4.5.0"
+    "redux-persist": "^5.10.0"
   },
   "peerDependencies": {
     "redux": ">=3"
